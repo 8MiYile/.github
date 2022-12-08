@@ -1,7 +1,4 @@
-### Hi 
-### My name is 8Mi_Yile 
-### from 8Mi-Tech.Community, Shenhu, Jinjiang, Fujian, China
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8MiYile&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![stats](https://github-readme-stats.vercel.app/api?username=8MiYile&show_icons=true&theme=dark)
+:hand: Hi <br>
+My name is 8Mi_Yile <br>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=8MiYile&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8MiYile&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
