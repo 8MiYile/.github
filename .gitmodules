@@ -13,3 +13,6 @@
 [submodule "Deepin-RickRoll_Terminal"]
 	path = Deepin-RickRoll_Terminal
 	url = https://github.com/keroserene/rickrollrc
+[submodule "OpenClash-SRC"]
+	path = OpenClash-SRC
+	url = https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash
